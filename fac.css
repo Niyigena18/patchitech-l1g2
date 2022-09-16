@@ -1,0 +1,31 @@
+.head{
+    background-color: darkblue;
+    display: flex;
+    width: 30rem;
+    padding-right: 3rem;
+    padding-left: 3rem;
+    padding-bottom: 2rem;
+    margin-bottom: 0px
+}
+.for{
+    display: block;
+    padding-left: 2rem;
+}
+.body{
+    padding-left: 3rem;
+    background-color: lightgrey;
+    padding_top: -2rem;
+    width: 33rem;
+
+}
+.button{
+    color: lightgreen;
+}
+.tab{
+    padding-top: 0rem;
+    padding-right: 7rem;
+    margin-top: 0px;
+}
+.all{
+    padding: 0rem;
+}
